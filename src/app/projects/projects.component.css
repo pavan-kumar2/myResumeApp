@@ -1,0 +1,8 @@
+.project a{
+  text-decoration: none;  
+  color: #0000ff;
+}
+.project ul li{
+  margin-bottom: 5px;
+  line-height: 20px;
+}

@@ -1,0 +1,18 @@
+<div class="education">
+  <h2>Education</h2>
+
+  <ul>
+    <li *ngFor="let item of education">
+      <div>
+        <div>
+          <div><span>{{item.program}}: </span><strong>{{item.stream}}</strong></div>
+          <div>at <strong>{{item.institution}}</strong>.</div>
+        </div>
+        <div>
+          <div>({{item.from}}-{{item.to}})</div>
+        </div>
+      </div>
+
+    </li>
+  </ul>
+</div>

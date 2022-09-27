@@ -1,1 +1,10 @@
-/* You can add global styles to this file, and also import other style files */
+* {
+  font-size: 15px;
+}
+
+h2 {
+  font-size: 25px;
+  font-weight: bold;
+  padding-bottom: 5px;
+  border-bottom: 2px solid #004080;
+}

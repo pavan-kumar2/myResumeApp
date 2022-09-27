@@ -1,0 +1,10 @@
+.education li> div{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 5px;
+    line-height: 20px;
+}
+.education li{
+    margin-bottom: 10px;
+}

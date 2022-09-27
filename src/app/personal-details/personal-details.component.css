@@ -1,0 +1,8 @@
+.personal-skills ul{
+    list-style: none;
+    padding: 0;
+    line-height: 25px;
+}
+.personal-skills ul span:first-child{
+font-weight: bold;
+}

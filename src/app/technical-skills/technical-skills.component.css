@@ -1,0 +1,5 @@
+.technical-skills ul{
+display: grid;
+grid-template-columns: auto auto;
+line-height: 25px;
+}

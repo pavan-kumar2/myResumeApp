@@ -1,0 +1,8 @@
+<div class="project">
+    <h2>Projects</h2>
+
+    <ul>
+        <li *ngFor="let project of projects"><a href="{{project.projectUrl}}"><strong>{{project.name}}</strong></a><span> {{project.details}}</span></li>
+    </ul>
+
+</div>
